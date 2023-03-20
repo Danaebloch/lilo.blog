@@ -1,13 +1,11 @@
 +++
 title = "About me"
 draft = false
+image = "e80d6352-af4f-4b0b-a5a2-7ea1cf9fd66b-min.jpeg"
 description = ""
-image = ""
 +++
-![](/img/default-author.jpg)
+Danae ..
 
-## My Name
-
-mail@example.org
+danae.bloch@icloud.com
 
 Here should be some info about me...
