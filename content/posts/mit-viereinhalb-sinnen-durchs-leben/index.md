@@ -9,9 +9,15 @@ image = "70fdd1a4-ff03-4457-9d94-93534ee98c05-min.jpeg"
 
 {{<lead>}} 
 
+
+
 Wie kommt man mit fast einem Sinn weniger durchs Leben? Eine Sehbehinderung ist erstmals vielleicht eine erschreckende Diagnose, doch kommt man damit klar? Sich in einer Stadt orientieren zu können oder neue Orte kennenlernen scheint eine völlig neue Hürde zu sein.
 
+
+
 {{</lead>}}  
+
+
 
 
 
@@ -21,11 +27,15 @@ Solche Situationen sind sicherlich nicht für alle alltäglich. Überall sind In
 
 Irene hat eine Sehbehinderung.
 
+
+
 {{<box>}} 
 
 Man gillt offiziell mit einer Sehstärke von unter 0.3 als Sehbehindert. In der Schweiz hat es Stand 2019 in der Schweiz rund 50‘000 blinde 270‘000 Menschen mit einer Sehbehinderung. 1.8% davon sind jüngere Erwachsene zwischen dem 20. und 39. Lebensjahr.
 
  {{</box>}}
+
+
 
 **Begrifflichkeit**
 
