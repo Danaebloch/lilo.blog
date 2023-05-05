@@ -10,17 +10,13 @@ footnotes = "Das Interview/ Reportage wurde von der Interview Partnerin genehmig
 
 {{<lead>}} ***Wie kommt man mit fast einem Sinn weniger durchs Leben? Eine Sehbehinderung ist erstmals vielleicht eine erschreckende Diagnose, doch kommt man damit klar? Sich in einer Stadt orientieren zu können oder neue Orte kennenlernen scheint eine völlig neue Hürde zu sein.***{{</lead>}}  
 
-Ein Brioche oder ein Gipfeli? Ich habe noch vielleicht drei Franken. Fühlt sich jedenfalls so an. Reicht das? Vielleicht sollte ich fragen gehen was das dort hinten links in der Vintrine neben dem grell grünen Carac liegt.
+Ein Brioche oder ein Gipfeli? Ich habe noch vielleicht drei Franken. Fühlt sich jedenfalls so an. Reicht das? Vielleicht sollte ich fragen gehen was das dort hinten links in der Vitrine neben dem grell grünen Carac liegt.
 
 Solche Situationen sind sicherlich nicht für alle alltäglich. Überall sind Informationen, Hinweise und Preise angeschrieben, doch was wenn man von weitem kleine schnörkelige Schriften nicht lesen kann? Kommt man so genau gleich durch die Welt wie wenn man alles klar sieht? Wo tauchen Hürden und Schwierigkeiten auf, die man vor lauter Dinge die man sehen kann, vielleicht sogar übersieht? Diese Fragen und noch weitere sollten mit einem Gespräch mit der jungen Studentin aus Basel Irene Stüssy, nachgegangen werden.
 
 Irene hat eine Sehbehinderung.
 
-{{<box>}} 
-
-Man gillt offiziell mit einer Sehstärke von unter 0.3 als Sehbehindert. In der Schweiz hat es Stand 2019 in der Schweiz rund 50‘000 blinde 270‘000 Menschen mit einer Sehbehinderung. 1.8% davon sind jüngere Erwachsene zwischen dem 20. und 39. Lebensjahr.
-
- {{</box>}}
+{{<box>}} Man gillt offiziell mit einer Sehstärke von unter 0.3 als Sehbehindert. In der Schweiz hat es Stand 2019 in der Schweiz rund 50‘000 blinde 270‘000 Menschen mit einer Sehbehinderung. 1.8% davon sind jüngere Erwachsene zwischen dem 20. und 39. Lebensjahr.{{</box>}}
 
 **Begrifflichkeit**
 
