@@ -8,11 +8,7 @@ footnotes = "Das Interview/ Reportage wurde von der Interview Partnerin genehmig
 +++
 ![Interview Ort](507ab3ec-2e24-48fb-91c7-ce4615d8decf-5.jpeg)
 
-{{<lead>}} 
-
-***Wie kommt man mit fast einem Sinn weniger durchs Leben? Eine Sehbehinderung ist erstmals vielleicht eine erschreckende Diagnose, doch kommt man damit klar? Sich in einer Stadt orientieren zu können oder neue Orte kennenlernen scheint eine völlig neue Hürde zu sein.***
-
-{{</lead>}}  
+{{<lead>}} ***Wie kommt man mit fast einem Sinn weniger durchs Leben? Eine Sehbehinderung ist erstmals vielleicht eine erschreckende Diagnose, doch kommt man damit klar? Sich in einer Stadt orientieren zu können oder neue Orte kennenlernen scheint eine völlig neue Hürde zu sein.***{{</lead>}}  
 
 Ein Brioche oder ein Gipfeli? Ich habe noch vielleicht drei Franken. Fühlt sich jedenfalls so an. Reicht das? Vielleicht sollte ich fragen gehen was das dort hinten links in der Vintrine neben dem grell grünen Carac liegt.
 
