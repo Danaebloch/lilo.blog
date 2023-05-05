@@ -7,6 +7,8 @@ image = "70fdd1a4-ff03-4457-9d94-93534ee98c05-min.jpeg"
 +++
 ![Interview Ort](507ab3ec-2e24-48fb-91c7-ce4615d8decf-5.jpeg)
 
+
+
 {{<lead>}} 
 
 Wie kommt man mit fast einem Sinn weniger durchs Leben? Eine Sehbehinderung ist erstmals vielleicht eine erschreckende Diagnose, doch kommt man damit klar? Sich in einer Stadt orientieren zu können oder neue Orte kennenlernen scheint eine völlig neue Hürde zu sein.
