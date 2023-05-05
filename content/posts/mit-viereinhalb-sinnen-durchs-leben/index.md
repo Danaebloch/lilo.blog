@@ -13,6 +13,8 @@ Wie kommt man mit fast einem Sinn weniger durchs Leben? Eine Sehbehinderung ist 
 
 {{</lead>}}  
 
+
+
 Ein Brioche oder ein Gipfeli? Ich habe noch vielleicht drei Franken. Fühlt sich jedenfalls so an. Reicht das? Vielleicht sollte ich fragen gehen was das dort hinten links in der Vintrine neben dem grell grünen Carac liegt.
 
 Solche Situationen sind sicherlich nicht für alle alltäglich. Überall sind Informationen, Hinweise und Preise angeschrieben, doch was wenn man von weiten kleine schnörkelige Schriften nicht lesen kann? Kommt man so genau gleich durch die Welt wie wenn man alles klar sieht? Wo tauchen Hürden und Schwierigkeiten auf, die man vor lauter Dinge die man sehen kann, vielleicht sogar übersieht? Diese Fragen und noch weitere sollten mit einem Gespräch mit der jungen Studentin aus Basel Irene Stüssy nachgegangen werden.
