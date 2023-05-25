@@ -4,7 +4,7 @@ date = "2023-05-25"
 draft = false
 pinned = false
 tags = []
-image = "70c69472-7939-4e85-a734-a6eda6253211.jpeg"
+image = "e179e901-d6df-40f1-bd20-47708a278a48.jpeg"
 +++
 Es ist alles dunkel. Meine Nachbarschaft liegt still da. Leise und sanft fallen die Schneeflocken aus dem dunklen Himmel herab.
 
