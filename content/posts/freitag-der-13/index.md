@@ -1,0 +1,15 @@
++++
+title = "Freitag der 13."
+date = "2023-05-25"
+draft = false
+pinned = false
+tags = []
+image = "70c69472-7939-4e85-a734-a6eda6253211.jpeg"
++++
+Es ist alles dunkel. Meine Nachbarschaft liegt still da. Leise und sanft fallen die Schneeflocken aus dem dunklen Himmel herab.
+
+Pötzlich risst mich ein lautes Geräusch aus dem Schlaf. Ich wusste schon immer das mir dieser Hund einmal zum Verhängnis wird. Sein Bellen ist zwar Ohren betäubend, aber dafür auch nicht sehr langfristig. Ich blickte schnell auf mein Handy um zum schauen wie lange ich wohl noch schlafen konnte, bevor ich in die Schule müsste. Meine Pupillen weiteten sich, mein Herz fing an zu rasen und ein kalter Schauer ging mir über den Rücken als ich die Zahl sah die dort stand. Vor lauter Aufregung schmiss ich mein Handy in meinen Rucksack, als hätte ich es frisch aus dem Mediamarkt mitgehen lassen, und schreckte auf. Als würde ich probieren einen Weltrekord zu brechen machte ich mich parat für die Schule, schliesslich war ich schon 17 Minuten zu spät. Ich musste um 7:30 dort sein und mein Handy sagte Freitag 13.12 7:47. Mit dem Velo, als wäre der Teufel höchstpersönlich  hinter mir her, raste ich im Neuschnee durch die Dunkelheit in Richtung Schule. Aus mir da noch unerfindlichen Gründen wurde ich vor lauter Aufregung noch nicht überfahren. Als ich an meiner Schule vorbei zum richtigen Einfang fuhr, habe ich mir schon gedacht, dass da etwas komisch ist. Warum brennt denn kein Licht? Wo sind denn alle hin? Verblüfft schloss ich mein Velo ab und gingt etwas verunsichert zu der guten alten Eingangstür. Ich zog an der Tür, die sonst mit Leichtigkeit auf schwingen würde, doch diese Tür bewegte sich keinen Zentimeter. Ich kramte mein Handy hervor um meine Freunde zu fragen, was denn heute eigentlich los sei. 
+
+Mein iPhone war kalt, nass und vermutlich genau so verwirrt wie ich. Ich schaltete es ein und kniff die Augen zusammen weil mir auf der fahrt so viele Schnee ins Gesicht geflogen ist, dass ich vermutlich in Zürich im Ausgang besser aufgehoben gewesen wäre . „Mh Freitag der 13.? Haben wir heute keine Schule? Habe ich was verpasst?“ Waren meine ersten Gedanken. Aber als ich nochmal auf mein viel zu helles Handy blickte traf mich der Schlag. Vom Datum wanderten meine Augen langsam zur Uhr und ich stutzte. Ich rieb meine Augen und schaute ungläubig nochmals die grosse zwei an. 2:03 „Ehhh nein. Warte was? 2:03? Kann das sein?“ Ich schaute mich um und plötzlich machte alles Sinn. 
+
+Weder wurde ich überfahren, noch war es hell. Der Neuschnee lag da wie eine feine Puderzuckerschicht auf einem sonst dunklen nassen Boden. Ich stand also da. Mutterseelenallein vor meiner Schule um zwei Uhr Morgens und ging erleichtert und verstört zu gleich wieder nach Hause. Wieso mein Hund um 1:47 begann zu bellen ist mir immer noch ein Rätsel. Aber anscheinend haben die 1 und die 7, vom Aussehen vieles gemeinsam.
