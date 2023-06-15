@@ -23,7 +23,7 @@ Sehr spannende Frage, die meisten Leute differenzieren zwischen: du kannst sehen
 
 Ich bin damit auf die Welt gekommen. Meine Eltern haben es gemerkt, als ich etwa eineinhalb war. Bei der zwei Jahreskontrolle konnte ich immernoch nicht richtig sehen und ab dem Punkt sind wir dann zu einer Augenärztin und da ist raus gekommen, wie „schlimm“ es eigentlich ist. Einige Zeit später habe ich auch meine erste Brille bekommen, weil ich dazu noch extrem weitsichtig bin. Die Brille dient aber gleich wie bei allen anderen die eine Brille tragen müssen.
 
-![](aaf7b0bb-f185-4d49-9462-eba2276404ca-min.jpeg "Interviewort")
+![](aaf7b0bb-f185-4d49-9462-eba2276404ca-min.jpeg "Interview Ort")
 
 **Wie reagieren Leute darauf wenn sie dich neu kennenlernen?** 
 
